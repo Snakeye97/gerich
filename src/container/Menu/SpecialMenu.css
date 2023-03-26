@@ -17,3 +17,7 @@
   align-items: flex-start;
   flex-direction: row;
 }
+
+.app__specialMenu-menu_heading{
+  font-family: var(--font-base);
+}
